@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\bin\Debug\2.01 3DPoint.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\obj\Debug\2.01 3DPoint.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\bin\Debug\2.01 3DPoint.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\bin\Debug\2.01 3DPoint.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\obj\Debug\2.01 3DPoint.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.01 3DPoint\2.01 3DPoint\obj\Debug\2.01 3DPoint.pdb
