@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\bin\Debug\1.01 ClassGSM.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\obj\Debug\1.01 ClassGSM.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\bin\Debug\1.01 ClassGSM.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\bin\Debug\1.01 ClassGSM.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\obj\Debug\1.01 ClassGSM.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\1.01 ClassGSM\1.01 ClassGSM\obj\Debug\1.01 ClassGSM.pdb
