@@ -1,0 +1,6 @@
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\bin\Debug\3.03 Students.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\bin\Debug\3.03 Students.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\bin\Debug\3.03 Students.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\obj\Debug\3.03 Students.csprojResolveAssemblyReference.cache
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\obj\Debug\3.03 Students.exe
+C:\Users\Hueco Mundo\Documents\GitHub\CSharpProgrammingCoursePart2\TO DO\3.03 Students\3.03 Students\obj\Debug\3.03 Students.pdb
