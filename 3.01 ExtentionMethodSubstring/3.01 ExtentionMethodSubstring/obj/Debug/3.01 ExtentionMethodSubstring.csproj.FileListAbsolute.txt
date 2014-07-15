@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\bin\Debug\3.01 ExtentionMethodSubstring.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\obj\Debug\3.01 ExtentionMethodSubstring.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\bin\Debug\3.01 ExtentionMethodSubstring.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\bin\Debug\3.01 ExtentionMethodSubstring.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\obj\Debug\3.01 ExtentionMethodSubstring.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\3.01 ExtentionMethodSubstring\3.01 ExtentionMethodSubstring\obj\Debug\3.01 ExtentionMethodSubstring.pdb
