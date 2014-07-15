@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _3._02_IEnumerableExtentions
 {
-    public static class IEnumerableExtentions<T> where T : IComparable<T>
+    public static class IEnumerableExtentions
     {
-        public static T Sum<T>(this IEnumerable<T> elements)
+        public static T Sum<T>(this IEnumerable<T> elements) where T : IComparable
         {
             dynamic result = 0;
             foreach (var element in elements)
@@ -19,7 +19,7 @@ namespace _3._02_IEnumerableExtentions
             return result;
         }
 
-        public static T Product<T>(this IEnumerable<T> elements)
+        public static T Product<T>(this IEnumerable<T> elements) where T : IComparable
         {
             dynamic result = 1;
             foreach (var element in elements)
@@ -32,10 +32,10 @@ namespace _3._02_IEnumerableExtentions
 
         public static T Min<T>(this IEnumerable<T> elements) where T : IComparable
         {
-            dynamic result = ulong.MaxValue;
+            dynamic result = int.MaxValue;
             foreach (var element in elements)
             {
-                if (result >= element)
+                if (element.CompareTo(result) < 0 )
                 {
                     result = (dynamic)element;
                 }
@@ -46,7 +46,7 @@ namespace _3._02_IEnumerableExtentions
 
         public static T Max<T>(this IEnumerable<T> elements) where T : IComparable
         {
-            dynamic result = ulong.MaxValue;
+            dynamic result = int.MaxValue;
             foreach (var element in elements)
             {
                 if (result <= element)
@@ -57,7 +57,7 @@ namespace _3._02_IEnumerableExtentions
             return result;
         }
 
-        public static T Average<T>(this IEnumerable<T> elements)
+        public static T Average<T>(this IEnumerable<T> elements) where T : IComparable
         {
             dynamic average = 0, counter = 0;
             foreach (var c in elements)
@@ -76,10 +76,13 @@ namespace _3._02_IEnumerableExtentions
     {
         static void Main(string[] args)
         {
-            IEnumerable<int> result = from value in Enumerable.Range(0, 3)
-				  select value;
+            int[] numbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-            int a = result.Sum<int>();
+            Console.WriteLine(numbers.Sum());
+            Console.WriteLine(numbers.Product());
+            Console.WriteLine(numbers.Average());
+            Console.WriteLine(numbers.Max());
+            Console.WriteLine(numbers.Min());
             
         }
     }

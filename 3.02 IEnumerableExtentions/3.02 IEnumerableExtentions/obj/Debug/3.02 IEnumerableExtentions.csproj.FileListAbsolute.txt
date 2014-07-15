@@ -1,1 +1,7 @@
 D:\Projects\Object-Oriented Programming (OOP) Course\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\bin\Debug\3.02 IEnumerableExtentions.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\bin\Debug\3.02 IEnumerableExtentions.exe.config
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\bin\Debug\3.02 IEnumerableExtentions.exe
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\bin\Debug\3.02 IEnumerableExtentions.pdb
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\obj\Debug\3.02 IEnumerableExtentions.csprojResolveAssemblyReference.cache
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\obj\Debug\3.02 IEnumerableExtentions.exe
+C:\Users\Hueco Mundo\Documents\GitHub\ObjectOrientedProgrammingCourse\3.02 IEnumerableExtentions\3.02 IEnumerableExtentions\obj\Debug\3.02 IEnumerableExtentions.pdb
