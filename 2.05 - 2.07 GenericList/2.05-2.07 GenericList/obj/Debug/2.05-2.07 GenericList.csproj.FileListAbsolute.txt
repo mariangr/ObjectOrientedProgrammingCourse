@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\bin\Debug\2.05-2.07 GenericList.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\obj\Debug\2.05-2.07 GenericList.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\bin\Debug\2.05-2.07 GenericList.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\bin\Debug\2.05-2.07 GenericList.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\obj\Debug\2.05-2.07 GenericList.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.05-2.07 GenericList\2.05-2.07 GenericList\obj\Debug\2.05-2.07 GenericList.pdb

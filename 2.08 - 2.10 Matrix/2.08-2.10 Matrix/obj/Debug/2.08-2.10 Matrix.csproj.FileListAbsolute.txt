@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\bin\Debug\2.08-2.10 Matrix.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\obj\Debug\2.08-2.10 Matrix.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\bin\Debug\2.08-2.10 Matrix.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\bin\Debug\2.08-2.10 Matrix.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\obj\Debug\2.08-2.10 Matrix.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\2.08-2.10 Matrix\2.08-2.10 Matrix\obj\Debug\2.08-2.10 Matrix.pdb
