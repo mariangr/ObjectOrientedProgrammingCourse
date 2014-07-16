@@ -1,6 +1,0 @@
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\bin\Debug\3.07 StudentsAndLinq.exe.config
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\bin\Debug\3.07 StudentsAndLinq.exe
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\bin\Debug\3.07 StudentsAndLinq.pdb
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\obj\Debug\3.07 StudentsAndLinq.csprojResolveAssemblyReference.cache
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\obj\Debug\3.07 StudentsAndLinq.exe
-D:\Projects\Object-Oriented Programming (OOP) Course\3.07 StudentsAndLinq\3.07 StudentsAndLinq\obj\Debug\3.07 StudentsAndLinq.pdb

@@ -96,12 +96,23 @@ namespace _3._07_StudentsAndLinq
             return isFromDepartment;
         }
 
+        public static string LongestStringInList(this List<string> list)
+        {
+            return list.Max();
+        }
+
         public static void PrintStudentConsole(Student[] students)
         {
             foreach (var item in students)
             {
                 Console.WriteLine(item.ToString());
             }
+        }
+
+        public static void AllStudentsGroupedByGroupName(this Student[] students)
+        {
+            var result = students.OrderBy(student => student.Group.DepartmentName);
+            PrintStudentConsole(result.ToArray());
         }
     }
 }

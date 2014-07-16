@@ -24,20 +24,29 @@ namespace _3._07_StudentsAndLinq
 
             Student[] students = new Student[] { first, second, third, fourth };
 
+            Console.WriteLine("Students from second group:");
             var studentsFromSecondGroup = students.GetByGroupNumber(2);
-            var orderedStudentsFromSecondGroup = students.OrderByFirstName();
+            var orderedStudents = students.OrderByFirstName();
             Extensions.PrintStudentConsole(studentsFromSecondGroup);
+            Console.WriteLine();
+
             
             Console.WriteLine("Ordered:");
-            Extensions.PrintStudentConsole(orderedStudentsFromSecondGroup);
+            Extensions.PrintStudentConsole(orderedStudents);
+            Console.WriteLine();
+
 
             Console.WriteLine("Using abv.bg:");
             var allStudentsThatUseABV = students.GetByEmail("abv.bg");
             Extensions.PrintStudentConsole(allStudentsThatUseABV);
+            Console.WriteLine();
+
 
             Console.WriteLine("In Sofia: ");
             var allStudentsThatAreInSofia = students.GetByPhoneCode("02");
             Extensions.PrintStudentConsole(allStudentsThatAreInSofia);
+            Console.WriteLine();
+
 
             Console.WriteLine("Students that have 6: ");
             var allStudentsWithGrades = students.HaveGrades();
@@ -46,25 +55,33 @@ namespace _3._07_StudentsAndLinq
             {
                 Console.WriteLine(item.ToString());
             }
-
             Console.WriteLine();
+
+
             Console.WriteLine("Students that have two grades: ");
             var allStudentsWithTwoGrades = students.HaveNGrades(2);
             Extensions.PrintStudentConsole(allStudentsWithTwoGrades);
+            Console.WriteLine();
+
 
             Console.WriteLine("Students' grades from 2006: ");
-
             var allGrades2006 = from student in allStudentsWithGrades where student.IsFromYear2006() select new { Marks = student.Marks.ListToString() };
             foreach (var item in allGrades2006)
             {
                 Console.WriteLine(item.ToString());
             }
             Console.WriteLine();
-            Console.WriteLine("Students from the mathematics department: ");
 
+
+            Console.WriteLine("Students from the mathematics department: ");
             var allStudentsFromMathematics = from student in students where student.IsFromDepartment("Mathematics") select student.FirstName + " " + student.LastName;
             String allStudentsFromMathematicsDepartment = string.Join(",", allStudentsFromMathematics);
             Console.WriteLine(allStudentsFromMathematicsDepartment);
+            Console.WriteLine();
+
+
+            Console.WriteLine("Students grouped by department: ");
+            students.AllStudentsGroupedByGroupName();
         }
     }
 }
