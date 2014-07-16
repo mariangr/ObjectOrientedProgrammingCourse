@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\bin\Debug\4.02 StudentsAndWorkers.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\obj\Debug\4.02 StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\bin\Debug\4.02 StudentsAndWorkers.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\bin\Debug\4.02 StudentsAndWorkers.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\obj\Debug\4.02 StudentsAndWorkers.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\4.02 StudentsAndWorkers\4.02 StudentsAndWorkers\obj\Debug\4.02 StudentsAndWorkers.pdb
