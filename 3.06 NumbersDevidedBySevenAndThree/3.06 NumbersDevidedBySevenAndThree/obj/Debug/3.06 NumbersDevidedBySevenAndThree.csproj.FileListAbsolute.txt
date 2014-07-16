@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\bin\Debug\3.06 NumbersDevidedBySevenAndThree.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\bin\Debug\3.06 NumbersDevidedBySevenAndThree.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\bin\Debug\3.06 NumbersDevidedBySevenAndThree.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\obj\Debug\3.06 NumbersDevidedBySevenAndThree.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\obj\Debug\3.06 NumbersDevidedBySevenAndThree.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\3.06 NumbersDevidedBySevenAndThree\3.06 NumbersDevidedBySevenAndThree\obj\Debug\3.06 NumbersDevidedBySevenAndThree.pdb
