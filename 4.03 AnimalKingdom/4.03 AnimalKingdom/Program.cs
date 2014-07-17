@@ -10,7 +10,7 @@ namespace _4._03_AnimalKingdom
     {
         static void Main(string[] args)
         {
-            Animal[] zoo =
+            Animals[] zoo =
         {
             new Dog("sharo1", "male",10),
             new Dog("sharo2", "male",15),
@@ -21,8 +21,9 @@ namespace _4._03_AnimalKingdom
             new Kitten("kitty2", 6),
             new Kitten("kitty3", 1),
             new Kitten("kitty4", 51),
-            new Tomcat("tomcat",3)
+            new TomCat("tomcat",3)
         };
+            Animals.PrintAverage(zoo);
         }
     }
 }

@@ -8,9 +8,11 @@ namespace _4._03_AnimalKingdom
 {
     class Kitten : Cats
     {
-        public Kitten()
+        public Kitten(string name, int age)
         {
+            this.Name = name;
             this.Sex = "female";
+            this.Age = age;
         }
 
         public override void MakeSound()

@@ -8,8 +8,11 @@ namespace _4._03_AnimalKingdom
 {
     class Dog : Animals
     {
-        public Dog(string name, string )
+        public Dog(string name, string sex, int age)
         {
+            this.Name = name;
+            this.Sex = sex;
+            this.Age = age;
 
         }
 
