@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\bin\Debug\6.04 Person.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\bin\Debug\6.04 Person.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\bin\Debug\6.04 Person.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\obj\Debug\6.04 Person.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\obj\Debug\6.04 Person.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\6.04 Person\6.04 Person\obj\Debug\6.04 Person.csprojResolveAssemblyReference.cache
