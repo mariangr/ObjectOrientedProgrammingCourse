@@ -1,0 +1,6 @@
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\bin\Debug\6.01 Student.exe.config
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\obj\Debug\6.01 Student.csprojResolveAssemblyReference.cache
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\bin\Debug\6.01 Student.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\bin\Debug\6.01 Student.pdb
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\obj\Debug\6.01 Student.exe
+D:\Projects\Object-Oriented Programming (OOP) Course\6.01 Student\6.01 Student\obj\Debug\6.01 Student.pdb
